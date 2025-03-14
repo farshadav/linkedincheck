@@ -5,7 +5,7 @@
 The **LinkedIn Profile Plausibility Check** is a web application designed to analyze the credibility of a LinkedIn profile based on its publicly available data. The app evaluates followers, connections, engagement levels, and activity patterns to provide an **Overall Credibility Score** and a breakdown of real vs. fake followers.
 
 ## Demo 
-check the demo (here)[https://superlative-frangollo-d58b31.netlify.app/]
+check the demo [here](https://superlative-frangollo-d58b31.netlify.app/)
 
 ## ✨ Features
 - **🔍 Profile Analysis** – Users enter a **public LinkedIn profile URL** for evaluation.
@@ -44,7 +44,7 @@ check the demo (here)[https://superlative-frangollo-d58b31.netlify.app/]
 git clone https://github.com/yourusername/LinkedIn-Plausibility-Check.git
 cd LinkedIn-Plausibility-Check
 ```
-### **2. Install Dependencies
+### **2. Install Dependencies**
 ### Frontend  
 ```
 sh
@@ -59,7 +59,7 @@ pip install -r requirements.txt  # (For Python/FastAPI)
 npm install  # (For Node.js/Express.js)
 ```
 
-### **3. Run the Application
+### **3. Run the Application**
 ### Start Backend Server  
 ```
 sh
