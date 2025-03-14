@@ -4,8 +4,8 @@
 ## 🚀 Overview
 The **LinkedIn Profile Plausibility Check** is a web application designed to analyze the credibility of a LinkedIn profile based on its publicly available data. The app evaluates followers, connections, engagement levels, and activity patterns to provide an **Overall Credibility Score** and a breakdown of real vs. fake followers.
 
-## Demo 
-check the demo [here](https://superlative-frangollo-d58b31.netlify.app/)
+## 🚀 Live Demo  
+🔗 **Try the app here:** [Live demo](https://superlative-frangollo-d58b31.netlify.app/)
 
 ## ✨ Features
 - **🔍 Profile Analysis** – Users enter a **public LinkedIn profile URL** for evaluation.
